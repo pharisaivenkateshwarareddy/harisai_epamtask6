@@ -13,6 +13,7 @@ public class App
         l.add(1);
         l.add(2);
         l.add(3);
+        l.add(4);
         System.out.println("Before removing element at index 2");
         l.print();
         l.remove(2);
